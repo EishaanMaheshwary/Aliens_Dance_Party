@@ -1,0 +1,35 @@
+body{
+    background:linear-gradient(darkorange,yellow);
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+}
+.header_div{
+background:rgb(255, 135, 135);
+}
+ button{
+    font-size: 80px;
+    margin-top: 30px;
+    width: 130px;
+    font-weight:bold;
+    letter-spacing: 3px;
+}
+.header_div p{
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+    letter-spacing: 8px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.footer{
+    margin-top: 20px;
+    position: fixed;
+    color:#6c757d;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+#h1{
+    font-size: 50px;
+}
